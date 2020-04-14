@@ -1,0 +1,2 @@
+rootProject.name='DataTech BD'
+include ':app'
